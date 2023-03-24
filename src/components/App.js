@@ -12,4 +12,8 @@ const App = () => {
   )
 }
 
+export defauly App;
+
+
+
 
