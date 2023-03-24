@@ -6,4 +6,4 @@ function SubHeading() {
     )
 }
 
-ReactDOM.render(<SubHeading/>, document.getElementById("main"));
+export default SubHeading;
