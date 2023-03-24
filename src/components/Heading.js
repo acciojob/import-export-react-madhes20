@@ -5,3 +5,4 @@ function Heading() {
         <h1>Welcome to our Site.</h1>
     )
 }
+ReactDOM.render(<Heading />, document.getElementById("main"));
