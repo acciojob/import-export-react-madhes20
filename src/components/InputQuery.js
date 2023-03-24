@@ -5,4 +5,4 @@ function InputQuery() {
         <input placeHolder={'Enter your query here..'} />
     )
 }
-ReactDOM.render(<InputQuery/>, document.getElementById("main"));
+export default InputQuery;
