@@ -5,4 +5,4 @@ function SubmitButton() {
         <button>Ask</button>     
     )
 }
-ReactDOM.render(<SubmitButton/>, document.getElementById("main"));
+export default SubmitButton;
